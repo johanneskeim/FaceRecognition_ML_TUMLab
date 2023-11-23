@@ -1,4 +1,4 @@
-# Application Challenges ML-Lab
+# Application Challenges MachineLearning TUM
 
 Johannes Keim, Johannes H.,Dushyant D., Katarina G.
 
