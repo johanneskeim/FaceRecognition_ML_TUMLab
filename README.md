@@ -1,5 +1,7 @@
 # Application Challenges ML-Lab
 
+Johannes Keim, Johannes H.,Dushyant D., Katarina G.
+
 ## Setup
 
 * Create conda environment and install dependencies from environment.yml file:
